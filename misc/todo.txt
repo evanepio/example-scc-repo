@@ -1,0 +1,4 @@
+- Dance like no one is watching
+- Play around with Spring Cloud Config
+- Raise an army of angry squirrels
+- Write next great American novel for some reason
