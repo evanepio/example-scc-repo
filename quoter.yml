@@ -1,0 +1,10 @@
+server:
+  port: 8027
+quotes:
+  - "I like chicken"
+  - "Fruitcake is my life... my passion"
+  - "Oh. Oh no. We've assembled a revenge fleet against the wrong guy."
+  - "How can anyone govern a nation that has two-hundred and forty-six different kinds of cheese?"
+  - "People who live in glass houses shouldn't throw stones. Also, they should put on some pants."
+
+myquote: I am Evan
